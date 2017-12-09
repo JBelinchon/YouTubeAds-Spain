@@ -49,4 +49,9 @@ r3---sn-25glen7e.googlevideo.com
 r3.sn-25glen7e.googlevideo.com
 r2---sn-h5q7dned.googlevideo.com
 r2.sn-h5q7dned.googlevideo.com
-
+r3---sn-h5q7dnez.googlevideo.com
+r3.sn-h5q7dnez.googlevideo.com
+r4---sn-h5q7rn7s.googlevideo.com
+r4.sn-h5q7rn7s.googlevideo.com
+r4---sn-4g5e6ns6.googlevideo.com
+r4.sn-4g5e6ns6.googlevideo.com
