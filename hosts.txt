@@ -55,3 +55,7 @@ r4---sn-h5q7rn7s.googlevideo.com
 r4.sn-h5q7rn7s.googlevideo.com
 r4---sn-4g5e6ns6.googlevideo.com
 r4.sn-4g5e6ns6.googlevideo.com
+r5---sn-h5q7dnel.googlevideo.com
+r5.sn-h5q7dnel.googlevideo.com
+r20---sn-ab5l6nss.googlevideo.com
+r20.sn-ab5l6nss.googlevideo.com
